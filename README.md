@@ -32,5 +32,3 @@ Structured vibration data containing features such as:
 - Best MSE: ~9.68 on unseen data
 - Hybrid model captures critical features and residuals better than deep learning models
 
-## Grade
-- GPA - 1.3 
