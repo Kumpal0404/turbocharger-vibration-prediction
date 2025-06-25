@@ -24,8 +24,9 @@ Structured vibration data containing features such as:
 
 ## 🛠️ Technologies
 - Python
-- XGBoost
-- scikit-learn
+- ML Technqiues like XGBoost, SVR, RF, DT
+- AI Technquies like NN, RNN, GRU, LSTM
+- scikit-learn, pyTorch
 - pandas, NumPy, matplotlib, seaborn
 
 ## 📈 Results
