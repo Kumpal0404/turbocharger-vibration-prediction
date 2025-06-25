@@ -7,11 +7,8 @@ This project applies a hybrid XGBoost + SVR approach to predict maximum vibratio
 ## 🚀 Key Features
 
 - Hybrid model combining XGBoost and SVR
-- 
 - Exploratory data analysis and feature engineering
-- 
 - Performance evaluation with MSE, MAE, and R²
-- 
 - Visualization of model predictions vs actual values
 
 ## 📊 Dataset
@@ -19,15 +16,10 @@ This project applies a hybrid XGBoost + SVR approach to predict maximum vibratio
 Structured vibration data containing features such as:
 
 - Excitation Order (I)
-- 
 - Mode (L)
-- 
 - Node Diameter (K)
-- 
 - Frequency (J)
-- 
 - Nominal Amplitude (N)
-- 
 - Sensor values like pressure and temperature readings
 
 ## 🛠️ Technologies
