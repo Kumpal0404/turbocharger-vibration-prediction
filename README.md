@@ -4,6 +4,11 @@
 
 This project applies a hybrid XGBoost + SVR approach to predict maximum vibration amplitudes in turbocharger systems using engineered features from operational and structural data.
 
+##  Authors   
+- **Kumpal Ganeshbhai Khokhariya**  
+- Navya Thirakala
+- Venkatasumadhar Pabolu
+  
 ## 🚀 Key Features
 
 - Hybrid model combining XGBoost and SVR
